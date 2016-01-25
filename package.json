@@ -1,9 +1,0 @@
-{
-  "name": "Sample_Express",
-  "description": "Sample Express Application to test out using Package.json to install dependencies",
-  "dependencies": {
-    "body-parser": "^1.14.2",
-    "ejs": "^2.3.4",
-    "express": "^4.13.4"
-  }
-}
